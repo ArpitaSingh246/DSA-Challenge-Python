@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0001-two-sum) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
+| [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
