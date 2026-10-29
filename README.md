@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0125-valid-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
 ## Dynamic Programming
 |  |
@@ -107,4 +108,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
