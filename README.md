@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0001-two-sum) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
 | [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0125-valid-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
