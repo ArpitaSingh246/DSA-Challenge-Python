@@ -3,6 +3,7 @@ class Solution(object):
         m = (len(text1))
         n = (len(text2))
         dp = [[0]*(n+1) for _ in range(m+1)]
+        # top-down appraoch
         '''for i in range(1,m+1):
             for j in range(1,n+1):
                 if text1[i-1] == text2[j-1]:
@@ -11,6 +12,7 @@ class Solution(object):
                     dp[i][j] = max(dp[i-1][j], dp[i][j-1])
         return dp[m][n]'''
 
+        # bottom - up method
         for i in range(m-1,-1,-1):
             for j in range(n-1,-1,-1):
                 if text1[i] == text2[j]:
