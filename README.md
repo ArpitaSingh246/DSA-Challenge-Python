@@ -91,11 +91,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0125-valid-palindrome](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0125-valid-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
