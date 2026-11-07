@@ -1,29 +1,30 @@
 class Solution(object):
     def orangesRotting(self, grid):
-        
-        count_fresh = 0
+        m = len(grid)
+        n = len(grid[0])
         queue = deque()
-        minutes = 0 
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j]==1:
-                    count_fresh += 1
-                elif grid[i][j] == 2:
+        fresh_orange = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 2:
                     queue.append((i,j))
-        directions = [(-1,0),(1,0),(0,-1),(0,1)]
-        while queue and count_fresh > 0:
-            for i in range(len(queue)):
-                x,y = queue.popleft()
-                for dx, dy in directions:
-                    nx = x +dx
-                    ny = y + dy
-                    if (0<= nx < len(grid) and 0<= ny < len(grid[0]) and grid[nx][ny] == 1):
-                        grid[nx][ny] = 2
-                        count_fresh -= 1
-                        queue.append((nx,ny))
-                        
+                elif grid[i][j] == 1:
+                    fresh_orange += 1
+        direction = [(1,0),(-1,0),(0,1),(0,-1)]
+        minutes = 0
+        while queue and fresh_orange > 0:
             minutes += 1
-        if count_fresh == 0:
+            for i in range(len(queue)):
+                r,c = queue.popleft()
+                for x,y in direction:
+                    nr, nc = r+x, c+y  
+                    if 0 <=  nr < m and 0 <= nc < n and grid[nr][nc] == 1:
+                        grid[nr][nc] = 2
+                        queue.append((nr,nc))
+                        fresh_orange -= 1
+        if fresh_orange == 0:
             return minutes
-        return -1
+        else:
+            return -1
+               
 
