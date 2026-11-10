@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0001-two-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
 | [0724-find-pivot-index](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0994-rotting-oranges) |
@@ -96,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1143-longest-common-subsequence) |
@@ -129,4 +131,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/1143-longest-common-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
