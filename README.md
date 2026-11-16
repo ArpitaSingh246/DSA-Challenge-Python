@@ -139,4 +139,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ArpitaSingh246/DSA-Challenge-Python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
